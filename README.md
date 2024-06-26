@@ -1,4 +1,4 @@
-Here's a properly formatted version of your README file:
+/!\ This repository is not an attempt at open-source and only aims towards transparency in the numerical methods used to produce the results obtained in the manuscript. Please contact the authors for more information.
 
 # Chromasolver
 
