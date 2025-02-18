@@ -39,5 +39,3 @@ resPET = simIR.sim_stack(stackPET, 1)
 Ensure that you have the required CSV file (`data_vo2_new_with_matchinglayers.csv`) in the correct format before running the simulation.
 
 ---
-
-Feel free to add any additional details or instructions as needed.
